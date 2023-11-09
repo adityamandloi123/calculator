@@ -1,0 +1,25 @@
+Description of Calculator
+November 9, 2023
+1 Introduction
+This document provides a brief overview of a Java program named Calculator
+which implements a basic calculator with additional functionalities for unit conversion and matrix operations.
+2 Basic Calculator Operations
+The calculator program offers the following basic operations:
+• Addition
+• Subtraction
+• Multiplication
+• Division
+Users can choose these operations through a menu system.
+3 Unit Conversion
+The program also includes a unit conversion feature. Users can convert:
+• Feet to Meters
+• Miles to Kilometers
+4 Matrix Operations
+Additionally, the calculator program supports matrix operations, specifically:
+• Matrix Addition
+• Matrix Subtraction
+Users can perform these operations on predefined 2x2 matrices.
+1
+5 Conclusion
+The Calculator program provides a versatile tool for performing basic calculations, unit conversions, and matrix operations. It offers a user-friendly interface
+through a text-based menu system.
