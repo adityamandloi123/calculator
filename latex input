@@ -1,0 +1,52 @@
+
+\documentclass{article}
+
+\begin{document}
+
+\title{ Description of Calculator }
+
+
+\maketitle
+
+\section{Introduction}
+
+This document provides a brief overview of a Java program named \texttt{Calculator} which implements a basic calculator with additional functionalities for unit conversion and matrix operations.
+
+\section{Basic Calculator Operations}
+
+The calculator program offers the following basic operations:
+
+\begin{itemize}
+  \item Addition
+  \item Subtraction
+  \item Multiplication
+  \item Division
+\end{itemize}
+
+Users can choose these operations through a menu system.
+
+\section{Unit Conversion}
+
+The program also includes a unit conversion feature. Users can convert:
+
+\begin{itemize}
+  \item Feet to Meters
+  \item Miles to Kilometers
+\end{itemize}
+
+\section{Matrix Operations}
+
+Additionally, the calculator program supports matrix operations, specifically:
+
+\begin{itemize}
+  \item Matrix Addition
+  \item Matrix Subtraction
+\end{itemize}
+
+Users can perform these operations on predefined 2x2 matrices.
+
+\section{Conclusion}
+
+The \texttt{Calculator} program provides a versatile tool for performing basic calculations, unit conversions, and matrix operations. It offers a user-friendly interface through a text-based menu system.
+
+\end{document}
